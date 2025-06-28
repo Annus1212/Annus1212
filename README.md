@@ -97,54 +97,23 @@ const annus = {
 </div>
 
 ## 📊 GitHub Analytics
-
+<!--
 <div align="center">
   <img height="200" src="https://github-readme-stats.vercel.app/api?username=Annus1212&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=86400"/>
-</div>
+</div> 
+-->
 
 <div align="center" style="width: 100%; display: flex; justify-content: space-between; align-items: center; background-color: red">
-  <img width="38.25%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Annus1212&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
-  <img width="61.25%" src="https://streak-stats.demolab.com/?user=Annus1212&theme=tokyonight&hide_border=true&date_format=M%20j" alt="GitHub Streak" />
-</div>
+  <img width="39.25%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Annus1212&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
+<!--   <img width="61.25%" src="https://streak-stats.demolab.com/?user=Annus1212&theme=tokyonight&hide_border=true&date_format=M%20j" alt="GitHub Streak" /> -->
+ <img width="59.25%" src="https://github-readme-stats.vercel.app/api?username=Annus1212&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=86400"/>
+  
+</div> 
 
 <!-- Alternative GitHub Activity Graph -->
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Annus1212&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Activity Graph" />
 </div>
-
-## 🎯 Core Competencies
-
-<table>
-<tr>
-<td width="33%">
-
-### **Frontend Excellence**
-- 🎨 Responsive Web Design
-- ⚡ Modern JavaScript/TypeScript
-- 🖼️ CSS Frameworks & Animation
-- 📱 Mobile-First Development
-
-</td>
-<td width="33%">
-
-### **Backend Mastery**
-- 🗄️ Database Design & Optimization
-- 🔗 RESTful API Development
-- 🏗️ System Architecture
-- 🔐 Security Implementation
-
-</td>
-<td width="33%">
-
-### **System Programming**
-- ⚙️ Low-Level Programming (C/C++)
-- 🚀 Performance Optimization
-- 🔧 Desktop Application Development
-- 📊 Data Structure Implementation
-
-</td>
-</tr>
-</table>
 
 ## 🤝 Let's Connect & Build Something Amazing!
 
