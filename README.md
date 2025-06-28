@@ -25,33 +25,6 @@ const annus = {
     motto: "Code with purpose, innovate with passion! 💡"
 };
 ```
-
-## 💼 What Makes Me Stand Out
-
-<table>
-<tr>
-<td width="50%">
-
-### 🎯 **Technical Versatility**
-- **10+ Programming Languages** mastered
-- **Full-Stack Development** expertise
-- **System-Level Programming** proficiency
-- **Mobile & Web** application development
-- **Database Design** and optimization
-
-</td>
-<td width="50%">
-
-### 🚀 **Impact-Driven Development**
-- Built **cinema management systems** handling real-world operations
-- Developed **project management tools** for team efficiency
-- Created **educational platforms** serving students
-- Designed **parsing tools** for data processing
-
-</td>
-</tr>
-</table>
-
 ## 🛠️ Tech Arsenal
 
 <div align="center">
@@ -173,42 +146,12 @@ const annus = {
 </tr>
 </table>
 
-## 🌟 Why Choose Me?
-
-<div align="center">
-
-```mermaid
-graph TD
-    A[🎯 Problem Solver] --> B[💡 Innovative Solutions]
-    B --> C[🚀 Scalable Architecture]
-    C --> D[📈 Business Impact]
-    D --> E[✨ Exceptional Results]
-    
-    F[🔧 Technical Skills] --> G[💻 Multiple Languages]
-    G --> H[🏗️ Full-Stack Expertise]
-    H --> I[📱 Cross-Platform Development]
-    I --> J[🎖️ Industry-Ready Developer]
-    
-    A --> F
-    E --> J
-```
-
-</div>
-
-### **🏆 What I Bring to Your Team:**
-
-- **🚀 Rapid Development:** Experience across 10+ programming languages means faster project delivery
-- **🔄 Adaptability:** Successfully worked on web, mobile, desktop, and system-level applications
-- **💡 Innovation:** Created unique solutions like cinema management systems and project management tools
-- **📚 Continuous Learning:** Always exploring new technologies and methodologies
-- **🎯 Results-Oriented:** Focus on building solutions that solve real-world problems
-
 ## 🤝 Let's Connect & Build Something Amazing!
 
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://github.com/Annus1212)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](javascript:alert("Coming%20Soon"))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/annus-shahzad/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:l233004@lhr.nu.edu.pk)
 [![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](javascript:alert("Coming%20Soon"))
 
@@ -225,6 +168,5 @@ graph TD
 </div>
 
 <div align="center">
-  <h3>💬 "Ready to contribute to your next big project!" 💬</h3>
   <p><i>Open to full-time opportunities, freelance projects, and exciting collaborations!</i></p>
 </div>
